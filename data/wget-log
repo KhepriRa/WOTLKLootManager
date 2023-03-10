@@ -1,0 +1,12 @@
+--2023-03-09 10:07:20--  https://nether.wowhead.com/wotlk/data/global?dv=41
+Certificat de l’autorité de certification « /etc/ssl/certs/ca-certificates.crt » chargé
+Résolution de nether.wowhead.com (nether.wowhead.com)… 13.249.9.107, 13.249.9.84, 13.249.9.52, ...
+Connexion à nether.wowhead.com (nether.wowhead.com)|13.249.9.107|:443… connecté.
+requête HTTP transmise, en attente de la réponse… 200 OK
+Taille : non indiqué [text/javascript]
+Sauvegarde en : « global?dv=41 »
+
+global?dv=41                      [<=>                                             ]       0  --.-KB/s               global?dv=41                      [ <=>                                            ]  39,40K  --.-KB/s    ds 0,002s  
+
+2023-03-09 10:07:21 (16,3 MB/s) - « global?dv=41 » sauvegardé [40344]
+
